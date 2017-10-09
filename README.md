@@ -56,15 +56,15 @@ or the mentee's preferences.
 
 ### Python Primer
 - [x] Python syntax introduction
-- [ ] Assignment on Python Classes
+- [x] Assignment on Python Classes
 
 ### Data loading and processing
-- [ ] Reading and Writing Text Files in Python
-- [ ] Working with Delimited Formats and MS Excel Files
-- [ ] Combining, Reshaping and Transforming Data Sets
-- [ ] String Related Opration on Data Sets
-- [ ] Group-wise Operatons on Data Sets
-- [ ] Data Visulatization using Matplotlib
+- [ ] Data Exploration of Stock Prices
+    - [ ] File I/O using pandas
+    - [ ] Combining, Reshaping and Transforming Data Sets
+    - [ ] String Related Opration on Data Sets
+    - [ ] Group-wise Operatons on Data Sets
+    - [ ] Data Visulatization using Matplotlib
     
 ### Implementation of mini project
 - [ ] Making the Predictive Model for Wine Taste Prediction
