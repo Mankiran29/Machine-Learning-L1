@@ -59,12 +59,12 @@ or the mentee's preferences.
 - [x] Assignment on Python Classes
 
 ### Data loading and processing
-- [ ] Data Exploration of Stock Prices
-    - [ ] File I/O using pandas
-    - [ ] Combining, Reshaping and Transforming Data Sets
-    - [ ] String Related Opration on Data Sets
-    - [ ] Group-wise Operatons on Data Sets
-    - [ ] Data Visulatization using Matplotlib
+- [x] Data Exploration of Stock Prices
+    - [x] File I/O using pandas
+    - [x] Combining, Reshaping and Transforming Data Sets
+    - [x] String Related Opration on Data Sets
+    - [x] Group-wise Operatons on Data Sets
+    - [x] Data Visulatization using Matplotlib
     
 ### Implementation of mini project
 - [ ] Making the Predictive Model for Wine Taste Prediction
