@@ -67,13 +67,26 @@ or the mentee's preferences.
     - [x] Data Visulatization using Matplotlib
     
 ### Implementation of mini project
-- [ ] Making the Predictive Model for Wine Taste Prediction
-    - [ ] Essentials of Prediction
-    - [ ] Understading Problem using Data
-    - [ ] What is Penalized Linear Models?
-    - [ ] Why use Penalized Linear Models?
-    - [ ] Data Loading and Wrangling
-    - [ ] Data Cleaning and Processing
+- [ ] Zoo animal classification
+    - [ ] [Understading the Data](http://archive.ics.uci.edu/ml/machine-learning-databases/zoo/zoo.names)
+    - [ ] Data Processing
+        - [ ] Take care of missing values
+        - [ ] Remove for duplicate values
+        - [ ] Encode values using utf-8 encoding format
+        - [ ] Remove invalid data (all the values of same feature should have same property i.e. unit, datatype, and range)
     - [ ] Data Visualization
+        - [ ] Plot bar chats for categorical features
+        - [ ] Plot scatter plots for numeric features and mark basic statistics
+        - [ ] Try to come up with correlation between above features
     - [ ] Final Algorithmic Implementation
+        - [ ] Read about multivariate classification
+        - [ ] Divide the dataset into train and test data sets [7:3 ratio]
+        - [ ] Write a synopsis of Mathematical model for the algorithm
+        - [ ] Implement the the calssification algorithm on training data
+        - [ ] Calculate Recall and Precision on test data
+        - [ ] Publish a blog about your project on Medium
+        - [ ] [For you reference](https://drive.google.com/file/d/0B8K3cW7WYBUaLTBPSXJ3emlaLW8/view)
+    - [ ] Future Work
+        - [ ] Implement the project using support vector machine
+        - [ ] Repeat rest of the previous steps
   
